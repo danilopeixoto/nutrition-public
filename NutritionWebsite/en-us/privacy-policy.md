@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Updated February 3, 2026**
+**Updated February 11, 2026**
 
 Welcome to Nutrition. We are committed to protecting your privacy and ensuring you have a positive experience on our apps and websites. This Privacy Policy outlines our practices regarding the collection, use, and disclosure of your information when you use our services.
 
@@ -65,3 +65,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions about this Privacy Policy, please contact us at [danilopeixoto@outlook.com](mailto:danilopeixoto@outlook.com?subject=Nutrition%20Privacy%20Policy).
 
 This Privacy Policy outlines the types of information we collect, how we use and protect it, and your rights and choices regarding your personal data. By using our services, you agree to the collection and use of your information in accordance with this policy.
+
+---
+
+Copyright (c) 2026, Danilo Ferreira. All rights reserved.

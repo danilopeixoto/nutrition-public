@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-**Atualizada em 3 de fevereiro de 2026**
+**Atualizada em 11 de fevereiro de 2026**
 
 Bem-vindo(a) ao Nutrição. Temos o compromisso de proteger sua privacidade e garantir que você tenha uma experiência positiva em nossos aplicativos e sites. Esta Política de Privacidade descreve nossas práticas relacionadas à coleta, uso e divulgação das suas informações quando você utiliza nossos serviços.
 
@@ -65,3 +65,7 @@ Podemos atualizar esta Política de Privacidade periodicamente. Notificaremos vo
 Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail [danilopeixoto@outlook.com](mailto:danilopeixoto@outlook.com?subject=Política%20de%20Privacidade%20do%20Nutrição).
 
 Esta Política de Privacidade descreve os tipos de informações que coletamos, como as utilizamos e protegemos, bem como seus direitos e escolhas em relação aos seus dados pessoais. Ao utilizar nossos serviços, você concorda com a coleta e o uso de suas informações de acordo com esta política.
+
+---
+
+Copyright (c) 2026, Danilo Ferreira. Todos os direitos reservados.

@@ -1,6 +1,6 @@
 # Suporte
 
-**Atualizado em 3 de fevereiro de 2026**
+**Atualizado em 11 de fevereiro de 2026**
 
 Obrigado por usar o Nutrição.
 
@@ -10,3 +10,7 @@ Se você precisar de ajuda, tiver dúvidas ou quiser relatar um problema, entre 
 [danilopeixoto@outlook.com](mailto:danilopeixoto@outlook.com?subject=Suporte%20do%20Nutrição).
 
 Nosso objetivo é responder a todas as solicitações de suporte em até **1–3 dias úteis**. O tempo de resposta pode variar durante fins de semana ou feriados.
+
+---
+
+Copyright (c) 2026, Danilo Ferreira. Todos os direitos reservados.

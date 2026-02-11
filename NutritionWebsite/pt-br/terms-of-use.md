@@ -1,6 +1,6 @@
 # Termos de Uso
 
-**Atualizado em 3 de fevereiro de 2026**
+**Atualizado em 11 de fevereiro de 2026**
 
 Bem-vindo(a) ao Nutrição. Estes Termos de Uso ("Termos") regem o uso de nossos aplicativos, sites e serviços ("Serviços"). Ao acessar ou utilizar nossos Serviços, você concorda em estar vinculado a estes Termos. Caso não concorde com estes Termos, não utilize nossos Serviços.
 
@@ -56,8 +56,26 @@ Estes Termos são regidos e interpretados de acordo com as leis do Brasil, sem c
 
 Podemos atualizar estes Termos periodicamente. Notificaremos você sobre quaisquer alterações publicando os novos Termos em nosso site e atualizando a data de vigência. Recomendamos que você revise estes Termos periodicamente para verificar eventuais alterações. O uso contínuo de nossos Serviços após quaisquer mudanças nestes Termos constitui sua aceitação dos novos Termos.
 
+## Aviso Referente à Apple
+
+Na medida em que você estiver usando nossos aplicativos móveis em um dispositivo Apple, você reconhece e concorda com os termos desta seção específica. Você reconhece que estes Termos são apenas entre você e Danilo Ferreira, não com a Apple Inc. ("Apple"), e a Apple não é responsável pelos Serviços e pelo conteúdo dos mesmos. Os Termos não podem prever regras de uso para os Serviços que estejam em conflito com os Termos e Condições dos Serviços de Mídia da Apple a partir da Data de Vigência (que você reconhece ter tido a oportunidade de revisar).
+
+- **Escopo da Licença.** A licença concedida a você para os Serviços é limitada a uma licença intransferível para usar os Serviços em quaisquer Produtos da marca Apple que você possua ou controle e conforme permitido pelas Regras de Uso estabelecidas nos Termos e Condições dos Serviços de Mídia da Apple, exceto que tais Serviços podem ser acessados e usados por outras contas associadas ao comprador via Compartilhamento Familiar ou compra por volume.
+- **Manutenção e Suporte.** Danilo Ferreira é o único responsável por fornecer quaisquer serviços de manutenção e suporte com relação aos Serviços, conforme especificado nestes Termos, ou conforme exigido pela lei aplicável. A Apple não tem obrigação alguma de fornecer quaisquer serviços de manutenção e suporte com relação aos Serviços.
+- **Garantia.** Danilo Ferreira é o único responsável por quaisquer garantias do produto, expressas ou implícitas por lei, na medida em que não tenham sido efetivamente renunciadas. No caso de qualquer falha dos Serviços em conformidade com qualquer garantia aplicável, você pode notificar a Apple, e a Apple reembolsará o preço de compra dos Serviços a você. Na extensão máxima permitida pela lei aplicável, a Apple não terá nenhuma outra obrigação de garantia com relação aos Serviços, e quaisquer outras reivindicações, perdas, responsabilidades, danos, custos ou despesas atribuíveis a qualquer falha de conformidade com qualquer garantia serão de responsabilidade exclusiva de Danilo Ferreira.
+- **Reivindicações de Produto.** Você e Danilo Ferreira reconhecem que Danilo Ferreira, e não a Apple, é responsável por tratar de quaisquer reivindicações suas ou de terceiros relacionadas aos Serviços ou à sua posse e/ou uso dos Serviços, incluindo, mas não se limitando a: (i) reivindicações de responsabilidade pelo produto; (ii) qualquer reivindicação de que os Serviços não estão em conformidade com qualquer requisito legal ou regulamentar aplicável; e (iii) reivindicações decorrentes da legislação de proteção ao consumidor, privacidade ou legislação semelhante.
+- **Direitos de Propriedade Intelectual.** Você e Danilo Ferreira reconhecem que, no caso de qualquer reivindicação de terceiros de que os Serviços ou sua posse e uso dos Serviços infringem os direitos de propriedade intelectual de terceiros, Danilo Ferreira, e não a Apple, será o único responsável pela investigação, defesa, acordo e quitação de qualquer reivindicação de infração de propriedade intelectual.
+- **Conformidade Legal.** Você declara e garante que (i) não está localizado em um país sujeito a embargo do governo dos EUA, ou que tenha sido designado pelo governo dos EUA como um país "apoiador do terrorismo"; e (ii) não está listado em nenhuma lista do governo dos EUA de partes proibidas ou restritas.
+- **Nome e Endereço do Desenvolvedor.** Quaisquer dúvidas, reclamações ou reivindicações do Usuário Final relacionadas aos Serviços devem ser direcionadas a Danilo Ferreira em [danilopeixoto@outlook.com](mailto:danilopeixoto@outlook.com?subject=Termos%20de%20Uso%20do%20Nutrição).
+- **Termos de Acordo de Terceiros.** Você deve cumprir os termos de acordo de terceiros aplicáveis ao usar os Serviços.
+- **Terceiro Beneficiário.** A Apple e as subsidiárias da Apple são terceiros beneficiários destes Termos. Após a sua aceitação destes Termos, a Apple terá o direito (e será considerada como tendo aceitado o direito) de fazer cumprir estes Termos contra você como terceiro beneficiário.
+
 ## Contato
 
 Se você tiver quaisquer dúvidas sobre estes Termos, entre em contato conosco pelo e-mail [danilopeixoto@outlook.com](mailto:danilopeixoto@outlook.com?subject=Termos%20de%20Uso%20do%20Nutrição).
 
 Estes Termos de Uso estabelecem os termos e condições legalmente vinculantes que regem o uso de nossos Serviços. Ao acessar ou utilizar os Serviços, você concorda em estar vinculado a estes Termos.
+
+---
+
+Copyright (c) 2026, Danilo Ferreira. Todos os direitos reservados.

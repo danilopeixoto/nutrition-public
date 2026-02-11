@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Updated February 3, 2026**
+**Updated February 11, 2026**
 
 Welcome to Nutrition. These Terms of Use ("Terms") govern your use of our apps, websites, and services ("Services"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree with these Terms, please do not use our Services.
 
@@ -56,8 +56,26 @@ These Terms are governed by and construed in accordance with the laws of Brazil,
 
 We may update these Terms from time to time. We will notify you of any changes by posting the new Terms on our website and updating the effective date. You are advised to review these Terms periodically for any changes. Your continued use of our Services after any changes to these Terms constitutes your acceptance of the new Terms.
 
+## Notice Regarding Apple
+
+To the extent that you are using our mobile applications on an Apple device, you further acknowledge and agree to the terms of this specific section. You acknowledge that these Terms are between you and Danilo Ferreira only, not with Apple Inc. ("Apple"), and Apple is not responsible for the Services and the content thereof. The Terms may not provide for usage rules for the Services that are in conflict with the Apple Media Services Terms and Conditions as of the Effective Date (which you acknowledge you have had the opportunity to review).
+
+- **Scope of License.** The license granted to you for the Services is limited to a non-transferable license to use the Services on any Apple-branded Products that you own or control and as permitted by the Usage Rules set forth in the Apple Media Services Terms and Conditions, except that such Services may be accessed and used by other accounts associated with the purchaser via Family Sharing or volume purchasing.
+- **Maintenance and Support.** Danilo Ferreira is solely responsible for providing any maintenance and support services with respect to the Services, as specified in these Terms, or as required under applicable law. Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Services.
+- **Warranty.** Danilo Ferreira is solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. In the event of any failure of the Services to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the Services to you. To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Services, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be Danilo Ferreira’s sole responsibility.
+- **Product Claims.** You and Danilo Ferreira acknowledge that Danilo Ferreira, not Apple, is responsible for addressing any claims of you or any third party relating to the Services or your possession and/or use of the Services, including, but not limited to: (i) product liability claims; (ii) any claim that the Services fail to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation.
+- **Intellectual Property Rights.** You and Danilo Ferreira acknowledge that, in the event of any third party claim that the Services or your possession and use of the Services infringes that third party’s intellectual property rights, Danilo Ferreira, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
+- **Legal Compliance.** You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+- **Developer Name and Address.** Any End-User questions, complaints or claims with respect to the Services should be directed to Danilo Ferreira at [danilopeixoto@outlook.com](mailto:danilopeixoto@outlook.com?subject=Nutrition%20Terms%20of%20Use).
+- **Third Party Terms of Agreement.** You must comply with applicable third party terms of agreement when using the Services.
+- **Third Party Beneficiary.** Apple, and Apple’s subsidiaries, are third party beneficiaries of these Terms. Upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary thereof.
+
 ## Contact Us
 
 If you have any questions about these Terms, please contact us at [danilopeixoto@outlook.com](mailto:danilopeixoto@outlook.com?subject=Nutrition%20Terms%20of%20Use).
 
 These Terms of Use set forth the legally binding terms and conditions that govern your use of our Services. By accessing or using the Services, you agree to be bound by these Terms.
+
+---
+
+Copyright (c) 2026, Danilo Ferreira. All rights reserved.
